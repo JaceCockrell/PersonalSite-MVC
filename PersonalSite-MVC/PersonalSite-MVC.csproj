@@ -26,7 +26,6 @@
     <Content Remove="wwwroot\assets\img\team\cocroft-square.jpg" />
     <Content Remove="wwwroot\assets\img\team\cody.jpg" />
     <Content Remove="wwwroot\assets\img\team\davolt.jpg" />
-    <Content Remove="wwwroot\assets\img\team\devon.jpg" />
     <Content Remove="wwwroot\assets\img\team\kyle.jpg" />
     <Content Remove="wwwroot\assets\img\team\me.png" />
     <Content Remove="wwwroot\assets\img\team\ritter.jpg" />
@@ -140,7 +139,6 @@
     <None Include="wwwroot\assets\img\team\cocroft-square.jpg" />
     <None Include="wwwroot\assets\img\team\cody.jpg" />
     <None Include="wwwroot\assets\img\team\davolt.jpg" />
-    <None Include="wwwroot\assets\img\team\devon.jpg" />
     <None Include="wwwroot\assets\img\team\kyle.jpg" />
     <None Include="wwwroot\assets\img\team\me.png" />
     <None Include="wwwroot\assets\img\team\ritter.jpg" />
